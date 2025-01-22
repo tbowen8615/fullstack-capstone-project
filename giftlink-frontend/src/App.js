@@ -11,7 +11,7 @@ import SearchPage from './components/SearchPage/SearchPage';
 import Profile from "./components/Profile/Profile.js";
 
 function App() {
-  const navigate = useNavigate();
+  //const navigate = useNavigate();
   return (
         <>
         <Navbar/>
